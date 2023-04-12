@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: jonasexplore/gitops
-  newTag: e7dc480c3bc47b5e6ed1748f90634c439691cf46
+  newTag: 1b2e78e1559d22a9056640f219685ae6bce1e030
