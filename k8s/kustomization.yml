@@ -2,10 +2,10 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 resources:
-  - deployment.yml
-  - service.yml
+- deployment.yml
+- service.yml
 
 images:
 - name: goserver
   newName: jonasexplore/gitops
-  newTag: sha
+  newTag: e7dc480c3bc47b5e6ed1748f90634c439691cf46
